@@ -1,2 +1,5 @@
-# bot-wa-naylarzzz
-bot untuk wa publik
+
+bot-auto-order/
+├── dg-order.js
+├── package.json
+└── README.md
