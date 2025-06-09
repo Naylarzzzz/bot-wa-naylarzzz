@@ -1,0 +1,12 @@
+{
+  "name": "bot-auto-order",
+  "version": "1.0.0",
+  "description": "Bot auto order diamond game ke web promo seperti DuniaGames",
+  "main": "dg-order.js",
+  "scripts": {
+    "start": "node dg-order.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}

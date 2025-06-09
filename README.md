@@ -6,4 +6,7 @@ Bot ini dibuat untuk mengisi form dan melakukan pemesanan otomatis ke situs sepe
 ```bash
 npm install
 npm start
+```
 
+## Platform
+- Railway (gratis)
